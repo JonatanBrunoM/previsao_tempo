@@ -48,6 +48,7 @@ void main() {
           ),
         ),
       ),
+      themeMode: ThemeMode.dark,
     ),
   );
 }
